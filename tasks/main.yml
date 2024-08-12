@@ -12,5 +12,5 @@
     dest: /var/www/html
     owner: root
     group: root
-    mode: '0753'
+    mode: '0755'
                             
